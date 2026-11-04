@@ -1,1 +1,54 @@
-. 
+!<DOCTYPE html>
+<html lang="en"<>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+      content="width=device width, 
+     initial-scale=1.0">
+    <title>My Personal Introduction</title>
+   <link rel="stylesheet"
+     href="style.css">
+  </head>
+      <body>
+      <header>
+        <h1>Raghav Mishra</h1>
+        <p>B.tech CSE Student</p>
+        <p>Future Software Engineer</p>
+      </header> 
+        <nav>
+        <a href="#about">About</a>
+        <a href="#skills">Skills</a>
+        <a href="#education">Education</a>
+        <a href="#goal">My Goal</a>
+        </nav>
+      <main>
+        <section id="about">
+          <h2>About Me</h2>
+          <p>
+            Hello! My name is Raghav Mishra.
+            I'm a B.tech Computer Science student.
+            I'm learning programming and web development.
+          </p>
+        </section>
+        <section id="skills">
+          <h2>My Skills</h2>
+          <ul>
+            <li>Java</li>
+            <li>HTML</li>
+            <li>CSS</li>
+          </ul>
+        </section>
+        <section id="education">
+          <h2>Education</h2>
+          <p>B.tech CSE-1st Year</p>
+        </section>
+        <section id="goal">
+          <h2>My Career Goal</h2>
+          <p>My goal is to become a Software Engineer.</p>
+        </section>
+      </main>
+        <footer>
+          <p>©2026 Raghav Mishra</p>
+        </footer>
+      </body>
+     </html>
