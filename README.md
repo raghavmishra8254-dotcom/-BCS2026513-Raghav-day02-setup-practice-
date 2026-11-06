@@ -10,4 +10,4 @@ This is my Day 02 Web Development Practice.
 - Project Setup
 
 ## Project Screenshot
-![My Project](IMG_20261102_114555.jpg
+![My Project](IMG_20261102_114555.jpg) 
